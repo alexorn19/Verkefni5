@@ -1,0 +1,32 @@
+body{
+    width: 60em;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.vorurdisplay{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+img {
+  max-width: 200px;
+}
+div{
+    border: 1px solid;
+    margin: 20px;
+    border-radius: 20px;
+}
+.karfa{
+    margin-top: 10px;
+    max-width: 60px;
+}
+.vara {
+  text-align: center;
+}
+h1 {
+	text-align: center;
+}
+
+.formid {
+	margin: 20px;
+	
+}
